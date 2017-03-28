@@ -1,0 +1,110 @@
+#menu
+{
+    color: black;
+    font: italic;
+    width:18%;
+    height:60px;
+   
+  
+}
+#menu:hover
+{
+    color:red;
+    border-radius: 7px;
+    width:18%;
+    height:60px;
+     border-color: red;
+   
+}
+.mystyle1
+{
+    border-color: yellow;
+    border-radius: 10px;
+    width:200px;
+    
+ font-family: cursive;   
+}
+.mystyle1:hover
+{
+    background-color: pink;;
+    border-color: yellow;
+}
+fieldset
+{
+    border-style: double;
+    border-color: yellow;
+}
+label{
+    color:blue;
+    font: bold;
+    font-family: cursive;
+}
+#mystyle2
+{
+    width:100px;
+    height: 40px;
+    background-color: yellow;
+    color: white;
+    font-family: fantasy;
+    font:bold;
+}
+body{
+    background-color:pink;
+}
+#menu1
+{
+    color: red;
+    font: italic;
+    width:18%;
+    height:60px;
+   
+  
+}
+.footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    background-color: yellow;
+}
+.ul1{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+
+.li1 {
+    float: left;
+    border-right:none;
+}
+
+
+
+.li1 a {
+    display: block;
+    color: white;
+    padding: 20px 16px;
+    text-decoration: none;
+	
+}
+.li2 {
+    float: right;
+    border-right:none;
+}
+
+
+
+.li2 a {
+    display: block;
+    color: white;
+    padding: 20px 16px;
+    text-decoration: none;
+	
+}
+
